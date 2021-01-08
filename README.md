@@ -1,10 +1,11 @@
 # pyASCIIgenerator
 A simple image-to-ASCII converter based on a video by [Kite](https://www.youtube.com/watch?v=v_raWlX7tZY).
+see it on [PyPI](https://pypi.org/project/pyASCIIgenerator/)
 
 ## Usage
 ```python
 import pyASCIIgenerator
-pyASCIIgenerator.asciify('path \\\ to \\\ file')
+pyASCIIgenerator.asciify('path \\ to \\ file')
 ```
 
 **REMEMBER TO USE DOUBLE BACKSLASHES**
